@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CudaLabs", "CudaLabs\CudaLabs.vcxproj", "{6A3CCD15-0F56-403D-9C54-287B5570E46D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1", "lab1\lab1.vcxproj", "{939F4F1C-32D4-44AD-80D9-7F9A73C576E4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab2", "lab2\lab2.vcxproj", "{FD9D4D08-1BD4-40FB-8ACB-8AE2263170BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab3", "lab3\lab3.vcxproj", "{87FF4A3E-031A-446E-A428-63905F3F6C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3CCD15-0F56-403D-9C54-287B5570E46D}.Debug|x64.ActiveCfg = Debug|x64
+		{6A3CCD15-0F56-403D-9C54-287B5570E46D}.Debug|x64.Build.0 = Debug|x64
+		{6A3CCD15-0F56-403D-9C54-287B5570E46D}.Release|x64.ActiveCfg = Release|x64
+		{6A3CCD15-0F56-403D-9C54-287B5570E46D}.Release|x64.Build.0 = Release|x64
+		{939F4F1C-32D4-44AD-80D9-7F9A73C576E4}.Debug|x64.ActiveCfg = Debug|x64
+		{939F4F1C-32D4-44AD-80D9-7F9A73C576E4}.Debug|x64.Build.0 = Debug|x64
+		{939F4F1C-32D4-44AD-80D9-7F9A73C576E4}.Release|x64.ActiveCfg = Release|x64
+		{939F4F1C-32D4-44AD-80D9-7F9A73C576E4}.Release|x64.Build.0 = Release|x64
+		{FD9D4D08-1BD4-40FB-8ACB-8AE2263170BF}.Debug|x64.ActiveCfg = Debug|x64
+		{FD9D4D08-1BD4-40FB-8ACB-8AE2263170BF}.Debug|x64.Build.0 = Debug|x64
+		{FD9D4D08-1BD4-40FB-8ACB-8AE2263170BF}.Release|x64.ActiveCfg = Release|x64
+		{FD9D4D08-1BD4-40FB-8ACB-8AE2263170BF}.Release|x64.Build.0 = Release|x64
+		{87FF4A3E-031A-446E-A428-63905F3F6C4B}.Debug|x64.ActiveCfg = Debug|x64
+		{87FF4A3E-031A-446E-A428-63905F3F6C4B}.Debug|x64.Build.0 = Debug|x64
+		{87FF4A3E-031A-446E-A428-63905F3F6C4B}.Release|x64.ActiveCfg = Release|x64
+		{87FF4A3E-031A-446E-A428-63905F3F6C4B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A73DD6-D84B-4AC4-AAEB-A7C5DDC93F3A}
+	EndGlobalSection
+EndGlobal
